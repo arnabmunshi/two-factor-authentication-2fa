@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pragmarx/google2fa": "^8.0",
+        "sonata-project/google-authenticator": "^2.2"
+    }
+}
